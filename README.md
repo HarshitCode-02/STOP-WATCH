@@ -1,3 +1,33 @@
+⏱️ Stopwatch Application
+
+A simple and interactive Stopwatch application built to measure time intervals accurately with an intuitive user interface. The application allows users to start, pause, resume, and reset the timer seamlessly, making it ideal for productivity tracking, workouts, and time-based tasks.
+
+The stopwatch updates time in real-time and ensures precise tracking with minimal performance overhead. This project demonstrates a strong understanding of time management logic, event handling, and UI responsiveness, making it a great beginner-friendly yet practical application.
+
+✨ Features
+
+Start, pause, and reset functionality
+
+Real-time time tracking
+
+User-friendly interface
+
+Lightweight and fast performance
+
+🛠️ Tech Stack
+
+HTML
+
+CSS
+
+JavaScript
+
+React.js
+
+This project is perfect for learning JavaScript timers, DOM manipulation, and building functional UI components.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
